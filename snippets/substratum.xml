@@ -14,17 +14,17 @@
     <remove-project name="LineageOS/android_vendor_cm" />
 
     <!-- Track our repos -->
-    <project path="frameworks/base" name="PolyOS-CAF/android_frameworks_base" />
-    <project path="frameworks/native" name="PolyOS-CAF/android_frameworks_native" />
-    <project path="packages/apps/Contacts" name="PolyOS-CAF/android_packages_apps_Contacts" />
-    <project path="packages/apps/ContactsCommon" name="PolyOS-CAF/android_packages_apps_ContactsCommon" />
-    <project path="packages/apps/Dialer" name="PolyOS-CAF/android_packages_apps_Dialer" />
-    <project path="packages/apps/ExactCalculator" name="PolyOS-CAF/android_packages_apps_ExactCalculator" />
-    <project path="packages/apps/PackageInstaller" name="PolyOS-CAF/android_packages_apps_PackageInstaller" />
-    <project path="packages/apps/PhoneCommon" name="PolyOS-CAF/android_packages_apps_PhoneCommon" />
-    <project path="packages/apps/Settings" name="PolyOS-CAF/android_packages_apps_Settings" />
-    <project path="system/sepolicy" name="PolyOS-CAF/android_system_sepolicy" />
-    <project path="vendor/poly" name="PolyOS-CAF/android_vendor_poly" />
+    <project path="frameworks/base" name="PolyOS-CAF/android_frameworks_base" remote="poly" />
+    <project path="frameworks/native" name="PolyOS-CAF/android_frameworks_native" remote="poly" />
+    <project path="packages/apps/Contacts" name="PolyOS-CAF/android_packages_apps_Contacts" remote="poly" />
+    <project path="packages/apps/ContactsCommon" name="PolyOS-CAF/android_packages_apps_ContactsCommon" remote="poly" />
+    <project path="packages/apps/Dialer" name="PolyOS-CAF/android_packages_apps_Dialer" remote="poly" />
+    <project path="packages/apps/ExactCalculator" name="PolyOS-CAF/android_packages_apps_ExactCalculator" remote="poly" />
+    <project path="packages/apps/PackageInstaller" name="PolyOS-CAF/android_packages_apps_PackageInstaller" remote="poly" />
+    <project path="packages/apps/PhoneCommon" name="PolyOS-CAF/android_packages_apps_PhoneCommon" remote="poly" />
+    <project path="packages/apps/Settings" name="PolyOS-CAF/android_packages_apps_Settings" remote="poly" />
+    <project path="system/sepolicy" name="PolyOS-CAF/android_system_sepolicy" remote="poly" />
+    <project path="vendor/poly" name="PolyOS-CAF/android_vendor_poly" remote="poly" />
 
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
