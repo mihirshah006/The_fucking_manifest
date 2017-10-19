@@ -11,7 +11,7 @@ Credits
 How to Build?
 -------------
 
-To initialize your local repository using the AospExtended trees, use a 
+To initialize your local repository using the PolyOS sources, use a 
 command like this:
 
 ```bash
