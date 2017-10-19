@@ -24,7 +24,7 @@
     <project path="packages/apps/PhoneCommon" name="PolyOS-CAF/android_packages_apps_PhoneCommon" />
     <project path="packages/apps/Settings" name="PolyOS-CAF/android_packages_apps_Settings" />
     <project path="system/sepolicy" name="PolyOS-CAF/android_system_sepolicy" />
-    <project path="vendor/cm" name="PolyOS-CAF/android_vendor_poly" />
+    <project path="vendor/poly" name="PolyOS-CAF/android_vendor_poly" />
 
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
