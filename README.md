@@ -5,8 +5,8 @@
 Credits
 -------
 
-* [**TeamSubstratum (Theme Engine)**](https://github.com/Substratum)
-* [**LineageOS/Cyanogenmod**](https://github.com/LineageOS)
+* [**TeamSubstratum**](https://github.com/Substratum)
+* [**LineageOS**](https://github.com/LineageOS)
 
 How to Build?
 -------------
