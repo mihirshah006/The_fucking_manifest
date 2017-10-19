@@ -17,6 +17,13 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
+  
+  <remote  name="poly"
+           fetch=".."
+           sync-c="true"
+           sync-j="4"
+           review="review.lineageos.org"
+           revision="refs/heads/nougat" />
 
   <!-- AOSP Projects -->
 
