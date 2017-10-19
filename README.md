@@ -15,7 +15,7 @@ To initialize your local repository using the AospExtended trees, use a
 command like this:
 
 ```bash
-  repo init -u https://github.com/PolyOS-CAF/android -b nougat
+  repo init -u git://github.com/PolyOS-CAF/android.git -b nougat
 ```
   
 Then to sync up:
