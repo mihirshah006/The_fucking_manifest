@@ -7,7 +7,7 @@ Credits
 
 * [**TeamSubstratum**](https://github.com/Substratum)
 * [**LineageOS**](https://github.com/LineageOS)
-
+* [**ColtOS**](https://github.com/ColtOS)
 How to Build?
 -------------
 
