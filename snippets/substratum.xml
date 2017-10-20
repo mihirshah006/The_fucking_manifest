@@ -25,6 +25,8 @@
     <project path="packages/apps/Settings" name="PolyOS-CAF/android_packages_apps_Settings" remote="poly" />
     <project path="system/sepolicy" name="PolyOS-CAF/android_system_sepolicy" remote="poly" />
     <project path="vendor/cm" name="PolyOS-CAF/android_vendor_poly" remote="poly" />
+    <project name="PolyOS-CAF/android_packages_apps_LightningBrowser" path="packages/apps/LightningBrowser" remote="github" revision="master" />
+    
 
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
