@@ -9,6 +9,7 @@ Credits
 * [**TeamSubstratum**](https://github.com/Substratum)
 * [**LineageOS**](https://github.com/LineageOS)
 * [**ColtOS**](https://github.com/ColtOS)
+* [**DirtyUnicons**](https://github.com/DirtyUnicorns)
 
 How to Build?
 -------------
@@ -25,4 +26,9 @@ Then to sync up:
 
 ```bash
   repo sync -c -jx --force-sync --no-clone-bundle --no-tags
+```
+EG:
+---
+```bash
+  repo sync -c -j8 --force-sync --no-clone-bundle --no-tags
 ```
