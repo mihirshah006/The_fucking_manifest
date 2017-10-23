@@ -28,7 +28,7 @@
     <project path="vendor/poly" name="PolyOS-CAF/android_vendor_poly" remote="poly" />
     <project name="PolyOS-CAF/android_packages_apps_LightningBrowser" path="packages/apps/LightningBrowser" remote="github" revision="master" />
     <project name="PolyOS-CAF/android_packages_apps_Substratum" path="packages/apps/Substratum" remote="github" revision="master" />
-    <project name="PolyOS-CAF/android/build" path="build" remote="poly" />
+    <project name="PolyOS-CAF/android_build" path="build" remote="poly" />
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
 </manifest>
