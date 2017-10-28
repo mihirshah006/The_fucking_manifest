@@ -23,7 +23,7 @@
     <project path="packages/apps/ExactCalculator" name="PolyOS-CAF/android_packages_apps_ExactCalculator" remote="poly" />
     <project path="packages/apps/PackageInstaller" name="PolyOS-CAF/android_packages_apps_PackageInstaller" remote="poly" />
     <project path="packages/apps/PhoneCommon" name="PolyOS-CAF/android_packages_apps_PhoneCommon" remote="poly" />
-    <project path="packages/apps/Settings" name="PolyOS-CAF/android_packages_apps_Settings" remote="poly" />
+    <project path="packages/apps/Settings" name="PolyOS-CAF/android_packages_apps_Settings" remote="poly" revision="test" />
     <project path="system/sepolicy" name="PolyOS-CAF/android_system_sepolicy" remote="poly" />
     <project path="vendor/poly" name="PolyOS-CAF/android_vendor_poly" remote="poly" />
     <project name="PolyOS-CAF/android_packages_apps_LightningBrowser" path="packages/apps/LightningBrowser" remote="github" revision="master" />
