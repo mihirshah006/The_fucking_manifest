@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://preview.ibb.co/eKxAD6/logo.png" width="640px" height="640px" > 
+<img src="https://ibb.co/jinxmR" width="640px" height="640px" > 
 </p>
 
 Credits
