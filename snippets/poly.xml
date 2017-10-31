@@ -31,7 +31,7 @@
     <project name="PolyOS-CAF/android_packages_apps_Substratum" path="packages/apps/Substratum" remote="github" revision="master" />
     <project name="PolyOS-CAF/android_build" path="build" remote="poly" />
     <project name="PolyOS-CAF/PolyLabs" path="packages/apps/PolyLabs" remote="poly" revision="master" />
-    <project name="PolyOS-CAF/android_packages_apps_SetupWizard" remote="poly" />
+    <project name="PolyOS-CAF/android_packages_apps_SetupWizard" path="packages/apps/SetupWizard" remote="poly" />
     
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
