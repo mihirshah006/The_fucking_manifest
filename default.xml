@@ -23,7 +23,7 @@
            sync-c="true"
            sync-j="4"
            review="review.lineageos.org"
-           revision="refs/heads/nougat" />
+           revision="nougat" />
 
   <!-- AOSP Projects -->
 
