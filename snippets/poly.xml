@@ -16,22 +16,22 @@
     <remove-project name="LineageOS/android_packages_apps_SetupWizard" />
     
     <!-- Track our repos -->
-    <project path="frameworks/base" name="PolyOS-CAF/android_frameworks_base" remote="poly" />
-    <project path="frameworks/native" name="PolyOS-CAF/android_frameworks_native" remote="poly" />
-    <project path="packages/apps/Contacts" name="PolyOS-CAF/android_packages_apps_Contacts" remote="poly" />
-    <project path="packages/apps/ContactsCommon" name="PolyOS-CAF/android_packages_apps_ContactsCommon" remote="poly" />
-    <project path="packages/apps/Dialer" name="PolyOS-CAF/android_packages_apps_Dialer" remote="poly" />
-    <project path="packages/apps/ExactCalculator" name="PolyOS-CAF/android_packages_apps_ExactCalculator" remote="poly" />
-    <project path="packages/apps/PackageInstaller" name="PolyOS-CAF/android_packages_apps_PackageInstaller" remote="poly" />
-    <project path="packages/apps/PhoneCommon" name="PolyOS-CAF/android_packages_apps_PhoneCommon" remote="poly" />
-    <project path="packages/apps/Settings" name="PolyOS-CAF/android_packages_apps_Settings" remote="poly" revision="native" />
-    <project path="system/sepolicy" name="PolyOS-CAF/android_system_sepolicy" remote="poly" />
-    <project path="vendor/poly" name="PolyOS-CAF/android_vendor_poly" remote="poly" />
-    <project name="PolyOS-CAF/android_packages_apps_LightningBrowser" path="packages/apps/LightningBrowser" remote="github" revision="master" />
-    <project name="PolyOS-CAF/android_packages_apps_Substratum" path="packages/apps/Substratum" remote="github" revision="master" />
-    <project name="PolyOS-CAF/android_build" path="build" remote="poly" />
-    <project name="PolyOS-CAF/PolyLabs" path="packages/apps/PolyLabs" remote="poly" revision="master" />
-    <project name="PolyOS-CAF/android_packages_apps_SetupWizard" path="packages/apps/SetupWizard" remote="poly" />
+    <project path="frameworks/base" name="Poly-OS/android_frameworks_base" remote="poly" />
+    <project path="frameworks/native" name="Poly-OS/android_frameworks_native" remote="poly" />
+    <project path="packages/apps/Contacts" name="Poly-OS/android_packages_apps_Contacts" remote="poly" />
+    <project path="packages/apps/ContactsCommon" name="Poly-OS/android_packages_apps_ContactsCommon" remote="poly" />
+    <project path="packages/apps/Dialer" name="Poly-OS/android_packages_apps_Dialer" remote="poly" />
+    <project path="packages/apps/ExactCalculator" name="Poly-OS/android_packages_apps_ExactCalculator" remote="poly" />
+    <project path="packages/apps/PackageInstaller" name="Poly-OS/android_packages_apps_PackageInstaller" remote="poly" />
+    <project path="packages/apps/PhoneCommon" name="Poly-OS/android_packages_apps_PhoneCommon" remote="poly" />
+    <project path="packages/apps/Settings" name="Poly-OS/android_packages_apps_Settings" remote="poly" revision="native" />
+    <project path="system/sepolicy" name="Poly-OS/android_system_sepolicy" remote="poly" />
+    <project path="vendor/poly" name="Poly-OS/android_vendor_poly" remote="poly" />
+    <project name="Poly-OS/android_packages_apps_LightningBrowser" path="packages/apps/LightningBrowser" remote="github" revision="master" />
+    <project name="Poly-OS/android_packages_apps_Substratum" path="packages/apps/Substratum" remote="github" revision="master" />
+    <project name="Poly-OS/android_build" path="build" remote="poly" />
+    <project name="Poly-OS/PolyLabs" path="packages/apps/PolyLabs" remote="poly" revision="master" />
+    <project name="Poly-OS/android_packages_apps_SetupWizard" path="packages/apps/SetupWizard" remote="poly" />
     
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
