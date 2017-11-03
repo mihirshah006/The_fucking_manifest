@@ -52,13 +52,13 @@
   <project path="prebuilts/cmsdk" name="LineageOS/android_prebuilts_cmsdk" clone-depth="1" />
   <project path="system/extras/su" name="LineageOS/android_system_extras_su" />
   <project path="vendor/cm" name="LineageOS/android_vendor_cm" />
-  <project path="vendor/cmsdk" name="PolyOS-CAF/cm_platform_sdk" remote="poly" />
+  <project path="vendor/cmsdk" name="Poly-OS/cm_platform_sdk" remote="poly" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/OpenWeatherMapProvider" name="LineageOS/android_packages_apps_OpenWeatherMapProvider" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider" name="LineageOS/android_packages_apps_WundergroundWeatherProvider" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/YahooWeatherProvider" name="LineageOS/android_packages_apps_YahooWeatherProvider" />
 
   <!-- CodeAurora additions -->
-  <project path="device/qcom/sepolicy" name="PolyOS-CAF/android_device_qcom_sepolicy" remote="poly" />
+  <project path="device/qcom/sepolicy" name="Poly-OS/android_device_qcom_sepolicy" remote="poly" />
   <project path="external/ant-wireless/ant_native" name="LineageOS/android_external_ant-wireless_ant_native" />
   <project path="external/ant-wireless/ant_service" name="LineageOS/android_external_ant-wireless_ant_service" />
   <project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library" />
@@ -111,7 +111,7 @@
   <project path="lineage/ansible" name="LineageOS/ansible" groups="infra" revision="master" />
   <project path="lineage/crowdin" name="LineageOS/cm_crowdin" groups="infra" revision="master" />
   <project path="lineage/cve" name="LineageOS/cve_tracker" groups="infra" revision="master" />
-  <project path="lineage/jenkins" name="PolyOS-CAF/hudson" groups="infra" revision="master" />
+  <project path="lineage/jenkins" name="Poly-OS/hudson" groups="infra" revision="master" />
   <project path="lineage/mirror" name="LineageOS/mirror" groups="infra" revision="master" />
   <project path="lineage/slackbot" name="LineageOS/slackbot" groups="infra" revision="master" />
   <project path="lineage/stats" name="LineageOS/tribble-tracker" groups="infra" revision="master" />
