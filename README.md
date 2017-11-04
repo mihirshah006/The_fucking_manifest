@@ -1,8 +1,3 @@
-
-<p align="center">
-<img src="https://ibb.co/jinxmR" width="640px" height="640px" > 
-</p>
-
 Credits
 -------
 
@@ -18,7 +13,7 @@ To initialize your local repository using the PolyOS sources, use a
 command like this:
 
 ```bash
-  repo init -u git://github.com/PolyOS-CAF/android.git -b nougat
+  repo init -u git://github.com/Poly-OS/android.git -b nougat
 ```
   
 Then to sync up:
