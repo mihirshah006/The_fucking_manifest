@@ -24,7 +24,7 @@
     <project path="packages/apps/ExactCalculator" name="Poly-OS/android_packages_apps_ExactCalculator" remote="poly" />
     <project path="packages/apps/PackageInstaller" name="Poly-OS/android_packages_apps_PackageInstaller" remote="poly" />
     <project path="packages/apps/PhoneCommon" name="Poly-OS/android_packages_apps_PhoneCommon" remote="poly" />
-    <project path="packages/apps/Settings" name="Poly-OS/android_packages_apps_Settings" remote="poly" revision="native" />
+    <project path="packages/apps/Settings" name="Poly-OS/android_packages_apps_Settings" remote="poly" revision="nougat" />
     <project path="system/sepolicy" name="Poly-OS/android_system_sepolicy" remote="poly" />
     <project path="vendor/poly" name="Poly-OS/android_vendor_poly" remote="poly" />
     <project name="Poly-OS/android_packages_apps_LightningBrowser" path="packages/apps/LightningBrowser" remote="github" revision="master" />
