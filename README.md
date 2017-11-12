@@ -1,5 +1,5 @@
  <p align="center">
-<img src="https://image.ibb.co/jH31TG/32908272.jpg" width="320" height="320" > 
+<img src="https://image.ibb.co/jH31TG/32908272.jpg" width="320" height="300" > 
  </p>
 
 Credits
