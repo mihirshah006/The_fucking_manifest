@@ -1,7 +1,6 @@
-
 <p align="center">
-<img src="https://image.ibb.co/fja6fm/32908272.jpg" width="400px" height="400px" > 
-</p>
+<img src="https://image.ibb.co/jH31TG/32908272.jpg" width="204" height="204" > 
+ </p>
 
 Credits
 -------
