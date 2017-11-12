@@ -1,3 +1,7 @@
+ <p align="center">
+<img src="https://image.ibb.co/jH31TG/32908272.jpg" width="640px" height="640px" > 
+ </p>
+
 Credits
 -------
 
@@ -5,6 +9,7 @@ Credits
 * [**LineageOS**](https://github.com/LineageOS)
 * [**ColtOS**](https://github.com/ColtOS)
 * [**DirtyUnicons**](https://github.com/DirtyUnicorns)
+* [**AospExtended**](https://github.com/AospExtended)
 
 How to Build?
 -------------
