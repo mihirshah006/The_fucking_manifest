@@ -14,7 +14,7 @@
     <remove-project name="LineageOS/android_vendor_cm" />
     <remove-project name="LineageOS/android_build" />
     <remove-project name="LineageOS/android_packages_apps_SetupWizard" />
-    
+    <remove-project name="LineageOS/android_external_skia" />
     <!-- Track our repos -->
     <project path="frameworks/base" name="Poly-OS/android_frameworks_base" remote="poly" />
     <project path="frameworks/native" name="Poly-OS/android_frameworks_native" remote="poly" />
@@ -32,6 +32,7 @@
     <project name="Poly-OS/android_build" path="build" remote="poly" />
     <project name="Poly-OS/PolyLabs" path="packages/apps/PolyLabs" remote="poly" revision="master" />
     <project name="Poly-OS/android_packages_apps_SetupWizard" path="packages/apps/SetupWizard" remote="poly" />
+    <project name="platform_external_skia" path="external/skia" remote="poly" />
     
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
