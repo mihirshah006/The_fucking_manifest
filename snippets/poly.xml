@@ -33,6 +33,7 @@
     <project name="Poly-OS/PolyLabs" path="packages/apps/PolyLabs" remote="poly" revision="master" />
     <project name="Poly-OS/android_packages_apps_SetupWizard" path="packages/apps/SetupWizard" remote="poly" />
     <project name="Poly-OS/platform_external_skia" path="external/skia" remote="poly" />
+    <project name="Poly-OS/android_packages_apps_OTAUpdates/blob" path="packages/apps/OTAUpdates" remote="github" revision="cm-14.1" />
     
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
