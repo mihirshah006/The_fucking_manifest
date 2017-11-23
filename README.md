@@ -1,5 +1,5 @@
  <p align="center">
-<img src="https://image.ibb.co/jH31TG/32908272.jpg" width="320" height="300" > 
+<img src="https://raw.githubusercontent.com/Rpingat/wall/master/1(1).png"> 
  </p>
 
 Credits
