@@ -18,7 +18,7 @@ To initialize your local repository using the PolyOS sources, use a
 command like this:
 
 ```bash
-  repo init -u git://github.com/Poly-OS/android.git -b nougat
+repo init -u https://github.com/Poly-OS/The_fucking_manifest -b nougat
 ```
   
 Then to sync up:
