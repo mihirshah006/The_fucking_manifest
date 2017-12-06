@@ -37,6 +37,7 @@
     <project name="Poly-OS/android_packages_apps_OTAUpdates" path="packages/apps/OTAUpdates" remote="github" revision="nougat" />
     <project name="Poly-OS/android_packages_apps_PolyWalls"  path="packages/apps/PolyWalls" remote="poly" />
     <project name="Poly-OS/platform_packages_apps_Launcher3" path="packages/apps/Launcher3" remote="github" revision="n-mr2" />
+    <project name="Poly-OS/android_packages_apps_DUI" path="packages/apps/DUI" remote="poly" />
     
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
