@@ -1,1 +1,94 @@
+[CENTER] [img]https://imgur.com/a/aiDBp [/image]
 
+[CODE]/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+
+
+[SIZE="6"]Introduction[/SIZE]
+
+We are PolyOS. We are legion.... Well, no not really, but we're a Custom ROM based off LineageOS 14.1, that's dedicated to bringing its users the best experience users want and need in terms of performance and stability. We have handpicked some of the most widely used features and integrated them into our ROM; but that doesn't mean we suffer in terms of performance, oh no! We have consistently been reported performing extremely well even after customisations,from all of our testers. Users love the quick, snappy interface and the limited, but useful features. We run the Qualcomm boost framework used by most OEMs in order to bring efficiency and quick response to the ROM. So what are you waiting for? Let's get PolyFied!
+
+[SIZE="6"]Features[/SIZE]
+
+This is the part [B]everyone[/B] loves, let's get down to the features.
+
+[CODE] [LIST]
+[*]
+Substratum theme engine
+
+Colour engine for theming
+
+Staturbar Network traffic indicator
+
+Statusbar Date and Time
+
+Disable screenshot sound
+
+Enable media cover art on the lockscreen
+
+Enable/disable power menu on the lockscreen
+
+Double tap to sleep on the lockscreen
+
+Vibrate on touching QS tiles
+
+One tap QS tile add/remove
+
+Custom Number of small QS tiles
+
+Custom Rows/columns of QS tiles
+
+One tap toggle WiFi/Bluetooth/Mobile Data
+
+Change System animations
+
+Completely disable animations
+
+Customise toast animations
+
+Customise List View animations
+
+Customise List View interpolators
+
+Blur Personalisation options
+
+Blur the expanded statusbar background
+
+Blur recents
+
+Blur Quick Settings
+
+Clear All button in recent apps view
+
+Show memory bar in recent apps view
+
+PolyLabs Quick Settings tile
+
+That's all for now, more coming soon
+[/LIST] [/CODE]
+
+[SIZE="6"][B]Installation Instructions[/B][/SIZE]
+
+[LIST=1]
+[*]Wipe data, cache and ART cache
+
+Flash PolyOS zip,found in the download section below
+
+Flash GApps, we recommend OpenGapps 7.1 Pico
+
+Flash Lineage su Add-On, or Magisk if you want root
+
+Reboot.
+
+[/LIST]
+
+[B][U]DOWNLOADS[/U][/B]
+This is where the magic happens! Let's download!
+[URL="https://www.androidfilehost.com/?fid=962021903579498120"][/URL]
